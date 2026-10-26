@@ -4,7 +4,7 @@
 import os
 
 # Caminho exato para a tua pasta de Downloads do Windows
-caminho_downloads = r"C:\Users\Usuario\Downloads\TCC FISIOTERAPIA - Fisioterapia Musculoesquelética - Dor Lombar.txt"
+caminho_downloads = r"caminho do arquivo"
 
 def carregar_base_conhecimento(caminho):
     try:
